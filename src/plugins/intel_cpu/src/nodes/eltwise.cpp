@@ -885,6 +885,7 @@ public:
                     Algorithm::EltwiseGreaterEqual,
                     Algorithm::EltwiseHsigmoid,
                     Algorithm::EltwiseHswish,
+                    Algorithm::EltwiseIsFinite,
                     Algorithm::EltwiseLessEqual,
                     Algorithm::EltwiseLogicalAnd,
                     Algorithm::EltwiseLogicalNot,
